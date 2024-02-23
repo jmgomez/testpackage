@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.3.0"
+version       = "0.4.0"
 author        = "jmgomez"
 description   = "A new awesome nimble package"
 license       = "MIT"
@@ -10,4 +10,4 @@ paths         = @["testpaths"]
 
 # Dependencies
 
-requires "nim >= 2.0.0"
+# requires "nim >= 2.0.0"

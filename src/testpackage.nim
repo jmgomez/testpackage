@@ -6,6 +6,10 @@ proc add*(x, y: int): int =
   ## Adds two numbers together.
   return x + y
 
+proc ver4*(x, y: int): int =
+  ## Adds two numbers together.
+  return x + y
+
 proc substract*(x, y: int): int =
   ## Substracts two numbers.
   return x - y
